@@ -23,19 +23,22 @@ Your-Move is a browser-based aim trainer built using modern frontend tooling. Th
 
 ## Folder Structure  
 Your-Move/
-├─ src/
-│ ├─ components/
-│ ├─ styles/
-│ ├─ main.ts
-│ ├─ App.tsx (if applicable)
-├─ public/
-├─ tsconfig.json
-├─ package.json
-├─ eslint.config.js
-├─ netlify.toml
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── styles/
+│   ├── main.ts
+│   └── App.tsx   (if applicable)
+│
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── eslint.config.js
+└── netlify.toml
 
-shell
-Copy code
+
 
 ## Getting Started  
 
